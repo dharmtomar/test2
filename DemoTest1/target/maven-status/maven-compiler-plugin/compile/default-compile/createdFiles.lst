@@ -1,0 +1,7 @@
+objectPages\Inventory.class
+objectPages\Report.class
+objectPages\Dashboard.class
+objectPages\Sales.class
+objectPages\Admin.class
+objectPages\UserManagement.class
+utills\CommonMethods.class

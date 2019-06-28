@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="11" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="1784" started-at="2019-06-11T03:14:03Z" finished-at="2019-06-11T03:14:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1784" started-at="2019-06-11T03:14:03Z" finished-at="2019-06-11T03:14:04Z">
+      <class name="testPages.Report_Test">
+        <test-method status="PASS" signature="report_Test()[pri:0, instance:testPages.Report_Test@59e5ddf]" name="report_Test" duration-ms="135" started-at="2019-06-11T03:14:04Z" finished-at="2019-06-11T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_Test -->
+      </class> <!-- testPages.Report_Test -->
+      <class name="testPages.Inventory_Test">
+        <test-method status="PASS" signature="inventorytest()[pri:0, instance:testPages.Inventory_Test@646d64ab]" name="inventorytest" duration-ms="134" started-at="2019-06-11T03:14:04Z" finished-at="2019-06-11T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventorytest -->
+      </class> <!-- testPages.Inventory_Test -->
+      <class name="testPages.UserMgt_Test">
+        <test-method status="PASS" signature="usermgt_Test()[pri:0, instance:testPages.UserMgt_Test@e320068]" name="usermgt_Test" duration-ms="130" started-at="2019-06-11T03:14:04Z" finished-at="2019-06-11T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usermgt_Test -->
+      </class> <!-- testPages.UserMgt_Test -->
+      <class name="testPages.Dashboard_Test">
+        <test-method status="PASS" signature="clickdashboard()[pri:0, instance:testPages.Dashboard_Test@1b68ddbd]" name="clickdashboard" duration-ms="161" started-at="2019-06-11T03:14:04Z" finished-at="2019-06-11T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickdashboard -->
+      </class> <!-- testPages.Dashboard_Test -->
+      <class name="testPages.Sales_Test">
+        <test-method status="PASS" signature="salesclick()[pri:0, instance:testPages.Sales_Test@536aaa8d]" name="salesclick" duration-ms="131" started-at="2019-06-11T03:14:04Z" finished-at="2019-06-11T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesclick -->
+      </class> <!-- testPages.Sales_Test -->
+      <class name="testPages.Admin_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testPages.Admin_Test@2d8f65a4]" name="setup" is-config="true" duration-ms="24812" started-at="2019-06-11T03:13:38Z" finished-at="2019-06-11T03:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="adminclick()[pri:0, instance:testPages.Admin_Test@2d8f65a4]" name="adminclick" duration-ms="1000" started-at="2019-06-11T03:14:03Z" finished-at="2019-06-11T03:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminclick -->
+      </class> <!-- testPages.Admin_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

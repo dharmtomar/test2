@@ -1,0 +1,7 @@
+testPages\Admin_Test.class
+testPages\UserMgt_Test.class
+testPages\Dashboard_Test.class
+testPages\BaseClass.class
+testPages\Inventory_Test.class
+testPages\Report_Test.class
+testPages\Sales_Test.class

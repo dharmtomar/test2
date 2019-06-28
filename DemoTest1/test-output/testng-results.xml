@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="11" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2264" started-at="2019-06-11T03:02:46Z" finished-at="2019-06-11T03:02:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2264" started-at="2019-06-11T03:02:46Z" finished-at="2019-06-11T03:02:48Z">
+      <class name="testPages.Report_Test">
+        <test-method status="PASS" signature="report_Test()[pri:0, instance:testPages.Report_Test@32eebfca]" name="report_Test" duration-ms="164" started-at="2019-06-11T03:02:47Z" finished-at="2019-06-11T03:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_Test -->
+      </class> <!-- testPages.Report_Test -->
+      <class name="testPages.Inventory_Test">
+        <test-method status="PASS" signature="inventorytest()[pri:0, instance:testPages.Inventory_Test@28ac3dc3]" name="inventorytest" duration-ms="280" started-at="2019-06-11T03:02:47Z" finished-at="2019-06-11T03:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inventorytest -->
+      </class> <!-- testPages.Inventory_Test -->
+      <class name="testPages.UserMgt_Test">
+        <test-method status="PASS" signature="usermgt_Test()[pri:0, instance:testPages.UserMgt_Test@1d371b2d]" name="usermgt_Test" duration-ms="191" started-at="2019-06-11T03:02:48Z" finished-at="2019-06-11T03:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usermgt_Test -->
+      </class> <!-- testPages.UserMgt_Test -->
+      <class name="testPages.Dashboard_Test">
+        <test-method status="PASS" signature="clickdashboard()[pri:0, instance:testPages.Dashboard_Test@543c6f6d]" name="clickdashboard" duration-ms="144" started-at="2019-06-11T03:02:48Z" finished-at="2019-06-11T03:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickdashboard -->
+      </class> <!-- testPages.Dashboard_Test -->
+      <class name="testPages.Sales_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testPages.Sales_Test@23fe1d71]" name="setup" is-config="true" duration-ms="17554" started-at="2019-06-11T03:02:28Z" finished-at="2019-06-11T03:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="salesclick()[pri:0, instance:testPages.Sales_Test@23fe1d71]" name="salesclick" duration-ms="1049" started-at="2019-06-11T03:02:46Z" finished-at="2019-06-11T03:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesclick -->
+      </class> <!-- testPages.Sales_Test -->
+      <class name="testPages.Admin_Test">
+        <test-method status="PASS" signature="adminclick()[pri:0, instance:testPages.Admin_Test@4e718207]" name="adminclick" duration-ms="332" started-at="2019-06-11T03:02:47Z" finished-at="2019-06-11T03:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminclick -->
+      </class> <!-- testPages.Admin_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

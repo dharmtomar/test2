@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1560222843148" stop="1560222845048" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Command line suite : Command line test</name>
+    <title>Command line suite : Command line test</title>
+    <test-cases>
+        <test-case start="1560222843228" stop="1560222844219" status="passed">
+            <name>adminclick</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="13972@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1560222844223" stop="1560222844384" status="passed">
+            <name>clickdashboard</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="13972@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1560222844385" stop="1560222844518" status="passed">
+            <name>inventorytest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="13972@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1560222844519" stop="1560222844654" status="passed">
+            <name>report_Test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="13972@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1560222844656" stop="1560222844786" status="passed">
+            <name>salesclick</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="13972@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1560222844788" stop="1560222844917" status="passed">
+            <name>usermgt_Test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="tOMARdHARAM"/>
+                <label name="thread" value="13972@tOMARdHARAM.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
