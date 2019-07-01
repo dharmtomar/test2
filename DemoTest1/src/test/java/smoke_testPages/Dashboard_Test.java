@@ -1,10 +1,10 @@
-package testPages;
+package smoke_testPages;
 
 import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import objectPages.Dashboard;
+import smoke_objectPages.Dashboard;
 
 public class Dashboard_Test extends BaseClass{
 

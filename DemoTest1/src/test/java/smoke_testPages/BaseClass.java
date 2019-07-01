@@ -1,4 +1,4 @@
-package testPages;
+package smoke_testPages;
 
 import java.io.IOException;
 

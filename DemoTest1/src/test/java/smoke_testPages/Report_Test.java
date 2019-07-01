@@ -1,10 +1,10 @@
-package testPages;
+package smoke_testPages;
 
 import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import objectPages.Report;
+import smoke_objectPages.Report;
 
 public class Report_Test extends BaseClass {
 

@@ -1,10 +1,10 @@
-package testPages;
+package smoke_testPages;
 
 import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import objectPages.UserManagement;
+import smoke_objectPages.UserManagement;
 
 public class UserMgt_Test extends BaseClass {
 

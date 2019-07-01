@@ -1,4 +1,4 @@
-package objectPages;
+package smoke_objectPages;
 
 import java.io.IOException;
 

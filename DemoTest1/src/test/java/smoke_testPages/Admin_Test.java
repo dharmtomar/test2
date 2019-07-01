@@ -1,10 +1,10 @@
-package testPages;
+package smoke_testPages;
 
 import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import objectPages.Admin;
+import smoke_objectPages.Admin;
 
 public class Admin_Test extends BaseClass{
 

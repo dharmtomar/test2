@@ -1,10 +1,10 @@
-package testPages;
+package smoke_testPages;
 
 import java.io.IOException;
 
 import org.testng.annotations.Test;
 
-import objectPages.Inventory;
+import smoke_objectPages.Inventory;
 
 public class Inventory_Test extends BaseClass{
 
